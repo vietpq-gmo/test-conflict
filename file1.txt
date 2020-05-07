@@ -1,2 +1,1 @@
-content of file1.txt
-content of file1.txt v2.0
+content of file1.txt in conflict
