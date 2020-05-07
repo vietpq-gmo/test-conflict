@@ -1,1 +1,2 @@
 content of file1.txt
+content of file1.txt v2.0
